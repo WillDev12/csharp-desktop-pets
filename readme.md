@@ -32,7 +32,6 @@ git init
 git remote add origin https://github.com/WillDev12/csharp-desktop-pets.git
 git fetch origin
 git checkout origin/themes -- "Name - Author"
-
 ```
 
 <p>2. Customise (optional)</p>
