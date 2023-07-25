@@ -41,7 +41,7 @@ $ ./csharp-desktop-pet.exe
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-If you would like to add a theme please refer to the /themes/ branch. Otherwise, if you would like to edit anything else, just commit to main.
+If you would like to add a theme please refer to the /themes/ folder. Otherwise, if you would like to edit anything else, just commit to main.
 
   
   
