@@ -12,3 +12,17 @@ C:\Users\kevin\Desktop\csharp-desktop-pet\obj\Debug\csharp-desktop-pet.pdb
 C:\Users\kevin\Desktop\csharp-desktop-pet\bin\Debug\Newtonsoft.Json.dll
 C:\Users\kevin\Desktop\csharp-desktop-pet\bin\Debug\Newtonsoft.Json.xml
 C:\Users\kevin\Desktop\csharp-desktop-pet\obj\Debug\csharp-desktop-pet.csproj.CopyComplete
+C:\Users\kevin\Desktop\New folder (2)\bin\Debug\csharp-desktop-pet.exe.config
+C:\Users\kevin\Desktop\New folder (2)\bin\Debug\csharp-desktop-pet.exe
+C:\Users\kevin\Desktop\New folder (2)\bin\Debug\csharp-desktop-pet.pdb
+C:\Users\kevin\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.dll
+C:\Users\kevin\Desktop\New folder (2)\bin\Debug\Newtonsoft.Json.xml
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.csproj.AssemblyReference.cache
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.csproj.SuggestedBindingRedirects.cache
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp_desktop_pet.Form1.resources
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp_desktop_pet.Properties.Resources.resources
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.csproj.GenerateResource.cache
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.csproj.CoreCompileInputs.cache
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.csproj.CopyComplete
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.exe
+C:\Users\kevin\Desktop\New folder (2)\obj\Debug\csharp-desktop-pet.pdb
