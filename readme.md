@@ -24,10 +24,18 @@ Here're some of the project's best features:
 <p>1. Clone repo</p>
 
 ```
-$ git clone https://github.com/WillDev12/csharp-desktop-pets
+$ git clone -b new --single-branch https://github.com/WillDev12/csharp-desktop-pets.git
+
+// or install a theme
+
+git init
+git remote add origin https://github.com/WillDev12/csharp-desktop-pets.git
+git fetch origin
+git checkout origin/themes -- "Name - Author"
+
 ```
 
-<p>2. Customise</p>
+<p>2. Customise (optional)</p>
 
 ```
 Add images and edit data/pet.json
@@ -41,9 +49,8 @@ $ ./csharp-desktop-pet.exe
 
 <h2>🍰 Contribution Guidelines:</h2>
 
-If you would like to add a theme please refer to the /themes/ folder. Otherwise, if you would like to edit anything else, just commit to main.
-
-  
+To add a theme, please refer to /themes branch (store theme in a new folder titled "[PetName] - [Author]").
+To change up how the program runs, edit the /new branch. (remember to save changes in /src too!)
   
 <h2>💻 Built with</h2>
 
