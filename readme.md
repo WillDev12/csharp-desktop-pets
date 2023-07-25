@@ -28,10 +28,10 @@ $ git clone -b new --single-branch https://github.com/WillDev12/csharp-desktop-p
 
 // or install a theme
 
-git init
-git remote add origin https://github.com/WillDev12/csharp-desktop-pets.git
-git fetch origin
-git checkout origin/themes -- "Name - Author"
+$ git init
+$ git remote add origin https://github.com/WillDev12/csharp-desktop-pets.git
+$ git fetch origin
+$ git checkout origin/themes -- "Name - Author"
 ```
 
 <p>2. Customise (optional)</p>
