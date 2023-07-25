@@ -1,0 +1,18 @@
+{
+    "Name": "YourPet",
+    "Size": {
+        "width": 150,
+        "height": 150
+    },
+    "Textures": {
+        "idle": [
+            ""
+        ],
+        "hover": [
+            ""
+        ],
+        "click": [
+            ""
+        ]
+    }
+}
