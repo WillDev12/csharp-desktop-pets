@@ -6,7 +6,9 @@
 
 <p align="center"><img src="https://img.shields.io/github/watchers/WillDev12/csharp-desktop-pets" alt="shields"><img src="https://img.shields.io/github/stars/WillDev12/csharp-desktop-pets" alt="shields"><img src="https://img.shields.io/github/license/WillDev12/csharp-desktop-pets" alt="shields"><img src="https://img.shields.io/github/forks/WillDev12/csharp-desktop-pets" alt="shields"></p>
 
-  
+<h2>🚀 Demo</h2>
+
+[https://willdev12.github.io/posts/update/](https://willdev12.github.io/posts/update/)
   
 <h2>🧐 Features</h2>
 
@@ -18,7 +20,7 @@ Here're some of the project's best features:
 *   Specify width and height for display
 *   Generate on the go with no pre-setup required
 *   Make your own with NO CODE required
-
+*   
 <h2>🛠️ Installation Steps:</h2>
 
 <p>1. Clone repo</p>
